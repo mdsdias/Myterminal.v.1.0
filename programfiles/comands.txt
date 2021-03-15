@@ -1,0 +1,8 @@
+lista_de_comandos:
+(.sair_para_sair)
+(?_para_ajuda)
+(.github_para_ir_ao_github)
+(.cmd_para_abrir_prompt_de_comando)
+(*_para_usar_assistente_de_voz/ex.:".links*")
+(.calc_para_abrir_calculadora)
+(.links_para_criar_arquivo_com_links_importantes.)
